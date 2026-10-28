@@ -205,9 +205,3 @@ Add `VITE_API_URL=https://your-render-url.onrender.com` as an environment variab
 Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
 
 ---
-
-## 👨‍💻 Developer
-
-**Ranjeet** — Full Stack Developer  
-B.Tech Computer Science, Pimpri Chinchwad University, Pune  
-[GitHub](https://github.com/Ranjeet6639) · [LinkedIn](https://www.linkedin.com/in/ranjeet-shinde-411244288/)
